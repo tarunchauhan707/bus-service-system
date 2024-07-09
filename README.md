@@ -9,8 +9,6 @@ This project simulates a city bus service using a graphical representation of th
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
