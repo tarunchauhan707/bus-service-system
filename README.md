@@ -53,7 +53,7 @@ This C++ program utilizes several libraries, including `graphics.h`, to visually
 
 #### Dijkstra's Algorithm:
 
--**int minDistance(int dist[], int sptSet[]):** Finds the vertex with the minimum distance that is not yet included in the shortest path tree.
--**void printSolution(int parent[], int n, int graph[V][V], int des, int time[V][V], int c):** Prints the solution and draws the final route.
--**void algo(int graph[V][V], int src, int des, int time[V][V], int c):** Implements Dijkstra's algorithm to find the shortest path from the source to the destination.
+- **int minDistance(int dist[], int sptSet[]):** Finds the vertex with the minimum distance that is not yet included in the shortest path tree.
+- **void printSolution(int parent[], int n, int graph[V][V], int des, int time[V][V], int c):** Prints the solution and draws the final route.
+- **void algo(int graph[V][V], int src, int des, int time[V][V], int c):** Implements Dijkstra's algorithm to find the shortest path from the source to the destination.
 
